@@ -110,9 +110,11 @@ Achieved Goal Node
 1. Initially run the python file puzzleSolver.py
 2. Enter the initial values as shown below 
         Enter the Initial State:
+        ```python
                 1 4 7 
                 5 0 8
                 2 3 6
+         ```
 3. Then the code checks for solvability condition. If the given input is solvable then the goal state is planned. else program prints a message as "Not solvable"
 4. Finally output files are generated
 5. To view the paths planned please run plot_path.py
